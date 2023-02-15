@@ -1,6 +1,6 @@
-### Hi there 👋 <CODERS>
+### Hi there 👋 CODERS
+<a href="https://www.linkedin.com/in/kashish-sharma-7a99b0252/">LINKEDIN</a>
   
-  - 📫 How to reach me: ...
 
 <!--
 **Kashish01in/Kashish01in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
